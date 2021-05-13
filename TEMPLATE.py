@@ -1,6 +1,8 @@
+#Imports
 import random
 import sys
 
+#Code
 words = [["", ""],["", ""],["", ""],["", ""],["", ""],["", ""],["", ""]]
 guesses = 5
 guesses_left = 5
